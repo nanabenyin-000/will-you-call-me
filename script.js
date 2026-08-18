@@ -267,7 +267,7 @@ callBtn.addEventListener(
     function() {
 
         window.location.href =
-            "tel:+233XXXXXXXXX";
+            "tel:+233545994109";
 
     }
 );
